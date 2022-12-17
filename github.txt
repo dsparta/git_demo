@@ -1,0 +1,2 @@
+hi , this is for demo and we are going to learn github from command line interface from ubuntu .
+thank you for using github and this is 2nd time creation.
